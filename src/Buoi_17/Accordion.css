@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.acc-title {
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.acc-content {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.acc-title:hover {
+    background-color: rgb(182, 180, 61);
+}
